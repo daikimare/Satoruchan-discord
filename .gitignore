@@ -1,4 +1,6 @@
 .DS_Store
+go.mod
 
 # environment variable
 .env
+.env.example
